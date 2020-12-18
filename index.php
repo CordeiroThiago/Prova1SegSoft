@@ -2,7 +2,7 @@
     <head>
     </head>
     <body>
-        <form action="/prova_seguranca/sign-up.php" method="GET">
+        <form action="/prova_seguranca/sign-up.php" method="POST">
             <div>
                 First Name: <input type="text" id="first" name="first-name">
             </div>

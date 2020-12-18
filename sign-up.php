@@ -3,10 +3,10 @@
     </head>
     <body>
         <div>
-            sign up <?php echo $_GET["first-name"] ?>
+            sign up <?php echo $_POST["first-name"] ?>
         </div>
         <?php
-            if (trim($_GET["email"]) == "") {
+            if (trim($_POST["email"]) == "") {
                 echo "Erro: email em branco";
             }
         ?>
