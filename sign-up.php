@@ -7,7 +7,7 @@
         </div>
         <?php
             if (trim($_GET["email"]) == "") {
-                echo "Erro: nome em branco";
+                echo "Erro: email em branco";
             }
         ?>
     </body>
