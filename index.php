@@ -7,13 +7,13 @@
                 First Name: <input type="text" id="first" name="first-name">
             </div>
             <div>
-                Last Name: <input type="text" id="first" name="last-name">
+                Last Name: <input type="text" id="last" name="last-name">
             </div>
             <div>
-                Email: <input type="text" id="first" name="email-name">
+                Email: <input type="text" id="email" name="email">
             </div>
             <div>
-                Phone: <input type="text" id="first" name="phone-name">
+                Phone: <input type="text" id="phone" name="phone">
             </div>
             <input type="submit">
         </form>
